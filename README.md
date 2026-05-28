@@ -19,7 +19,8 @@ A beautiful real-time weather app with **Ocean Green UI**,
 
 | Home Screen | Current Weather | 5-Day Forecast |
 |:-----------:|:---------------:|:--------------:|
-| ![home](screenshots/home.png) | ![weather](screenshots/weather.png) | ![forecast](screenshots/forecast.png) |
+|<img width="1364" height="728" alt="weatherForcasteApp" src="https://github.com/user-attachments/assets/69b895ac-8fb7-422b-b9f8-6676ac3cd15c" />
+
 
 ---
 
